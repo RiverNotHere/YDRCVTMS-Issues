@@ -1,0 +1,35 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [YDRC Volunteering Time Management System](https://github.com/o0River0o/YDRCVTMS).
+
+## [unreleased]
+
+## [0.1.0] - 2020-10-21
+### Added
+- Finished Edit Profile page
+- Finished Change Password page
+
+### Changed
+- Updated Add Record page
+- Optimized Date data in MongoDB
+
+### Fixed
+- Fixed sometime date will appear with a wrong time
+
+## [0.0.2] - 2020-10-15
+### Added
+- User Dashboard page
+- Edit Profile page
+- Change Password page
+
+## [0.0.1] - 2020-10-13
+### Added
+- Login/Register System with Passport.js
+
+### Changed
+- Updated UI with bootstrap
+
+### Removed
+- Admin Portal has been changed to a separate project
