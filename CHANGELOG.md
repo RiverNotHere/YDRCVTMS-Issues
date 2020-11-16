@@ -12,7 +12,7 @@ and this project adheres to [YDRC Volunteering Time Management System](https://g
 - Moved "add record" entry to the sidenav
 - The improved label and instructions for the "Add Record" form
 
-## Fixed
+### Fixed
 - Fixed all known issues
 
 ## [1.0.0] - 2020-10-31
