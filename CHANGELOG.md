@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [YDRC Volunteering Time Management System](https://github.com/o0River0o/YDRCVTMS).
 
+## [1.0.1] - 2020-11-15
+### Added
+- support login with either email or username
+
+### Changed
+- Moved "add record" entry to the sidenav
+- The improved label and instructions for the "Add Record" form
+
+## Fixed
+- Fixed all known issues
+
 ## [1.0.0] - 2020-10-31
 ### Added
 - enabled swipe open sidenav on mobile devices
@@ -14,8 +25,12 @@ and this project adheres to [YDRC Volunteering Time Management System](https://g
 - Updated Admin Portal Link
 
 ### Fixed
-- Fixed display problems in "add record" page when on mobile devices
 - Fixed wrong additional hours issue
+
+### Changed
+
+### Fixed
+- Fixed display problems in "add record" page when on mobile devices
 
 ## [beta-0.1.0] - 2020-10-21
 ### Added
