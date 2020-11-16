@@ -26,10 +26,6 @@ and this project adheres to [YDRC Volunteering Time Management System](https://g
 
 ### Fixed
 - Fixed wrong additional hours issue
-
-### Changed
-
-### Fixed
 - Fixed display problems in "add record" page when on mobile devices
 
 ## [beta-0.1.0] - 2020-10-21
